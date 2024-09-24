@@ -1,0 +1,25 @@
+site_name: "DEEPSPACE Documentation"
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.12.1/simple-lightbox.min.css
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.12.1/simple-lightbox.min.js
+  - js/custom.js
+
+theme:
+  name: 'material'
+  features:
+    - navigation.sections   # Makes sidebar sections collapsible
+
+nav:
+  - Home: index.md
+  - Whitepaper: whitepaper/whitepaper_index.md
+  - DEEPSPACE Game:
+    - Quick Start: game/quick_start.md
+    - Ships:
+      - SomethingNew:
+        - Stuff: test/test.md
+    - Combat:
+      - game/guide2.md
+
