@@ -16,33 +16,35 @@ nav:
   - Home: index.md
   - Whitepaper: whitepaper/whitepaper_index.md
   - DEEPSPACE Game:
-    - Quick Start: game/quick_start.md
-    - Ships:
-      - Getting a Ship:
-        - Starter Ship: 
-        - Building (Minting) Ships: test/test.md
-        - Purchasing a Ship:
-      - Ship Collections:
-      - Ship Classes:
-        - Fighter:
-        - Tank:
-        - Support:
-        - Mining:
-      - Ship Stats:
-        - Upgrading Stats:
-          - Resource Upgrade Costs:
-      - Textures and Skins:
-    - Planets:
-    - Resources:
-      - Resource Types:
-    - Cores:
-    - Land:
     - Getting Started:
-      - Before You Play:
-      - Starting the Game:
+      - Stages and Gameplay: game/stages.md
+    - Ships:
+      - Ship Overview: game/ship_overview.md
+      - Getting a Ship:
+        - Starter Ship: game/starter_ship.md
+        - Building (Minting) Ships: test/test.md
+        - Purchasing a Ship: game/ship_purchase.md
+      - Ship Collections: game/ship_collections.md
+      - Ship Classes:
+        - Fighter: game/ship_fighter.md
+        - Tank: game/ship_tank.md
+        - Support: game/ship_support.md
+        - Mining: game/ship_mining.md
+      - Ship Stats: 
+        - Upgrading Stats:
+          - Resource Upgrade Costs: game/resource_upgrade_costs.md
+      - Textures and Skins: game/ship_textures.md
+    - Planets: game/planets.md
+    - Resources:
+      - Resource Types: game/resource_types.md
+    - Cores: game/cores.md
+    - Land: game/land.md
+    - Getting Started:
+      - Before You Play: game/before_you_play.md
+      - Starting the Game: game/starting.md
     - Game Stages:
-      - The Hangar:
-      - Space Exploration:
+      - The Hangar: game/hangar.md
+      - Space Exploration: game/exploration.ms
       - Combat: game/combat_index.md
-      - Racing:
-    - In-Game Help:
+      - Racing: game/racing.md
+    - In-Game Help: game/help.md
