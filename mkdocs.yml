@@ -18,8 +18,32 @@ nav:
   - DEEPSPACE Game:
     - Quick Start: game/quick_start.md
     - Ships:
-      - SomethingNew:
-        - Stuff: test/test.md
-    - Combat:
-      - game/guide2.md
+      - Getting a Ship:
+        - Starter Ship: 
+        - Building (Minting) Ships: test/test.md
+        - Purchasing a Ship:
+      - Ship Collections:
+      - Ship Classes:
+        - Fighter:
+        - Tank:
+        - Support:
+        - Mining:
+      - Ship Stats:
+        - Upgrading Stats:
+          - Resource Upgrade Costs:
+      - Textures and Skins:
+    - Planets:
+    - Resources:
+      - Resource Types:
+    - Cores:
+    - Land:
+    - Getting Started:
+      - Before You Play:
+      - Starting the Game:
+    Game Stages:
+      - The Hangar:
+      - Space Exploration:
+      - Combat: game/combat_index.md
+      - Racing:
+    - In-Game Help:
 
