@@ -2,6 +2,8 @@ site_name: "DEEPSPACE Documentation"
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.12.1/simple-lightbox.min.css
+  - overrides/extra.css
+
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.12.1/simple-lightbox.min.js
@@ -18,11 +20,12 @@ nav:
   - DEEPSPACE Game:
     - Getting Started:
       - Stages and Gameplay: game/stages.md
+      - Movement: game/movement.md
     - Ships:
       - Ship Overview: game/ship_overview.md
       - Getting a Ship:
         - Starter Ship: game/starter_ship.md
-        - Building (Minting) Ships: test/test.md
+        - Building (Minting) Ships: game/minting.md
         - Purchasing a Ship: game/ship_purchase.md
       - Ship Collections: game/ship_collections.md
       - Ship Classes:

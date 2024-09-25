@@ -1,0 +1,8 @@
+/* Target headings inside the Material theme's typeset area */
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
+    font-weight: bold;
+}
+
+.md-content .md-typeset {
+    font-size: 16px;  /* Adjust to your preferred size */
+}
