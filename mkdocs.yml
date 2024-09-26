@@ -21,6 +21,8 @@ nav:
     - Getting Started:
       - Stages and Gameplay: game/stages.md
       - Movement: game/movement.md
+      - Before You Play: game/before_you_play.md
+      - Starting the Game: game/starting.md
     - Ships:
       - Ship Overview: game/ship_overview.md
       - Getting a Ship:
@@ -34,20 +36,27 @@ nav:
         - Support: game/ship_support.md
         - Mining: game/ship_mining.md
       - Ship Stats: 
+        - Stats Defined: game/stats_defined.md
         - Upgrading Stats:
+          - Upgrade Overview: game/upgrade_overview.md
           - Resource Upgrade Costs: game/resource_upgrade_costs.md
       - Textures and Skins: game/ship_textures.md
     - Planets: game/planets.md
     - Resources:
+      - Resources Overview: game/resources_overview.md
       - Resource Types: game/resource_types.md
     - Cores: game/cores.md
     - Land: game/land.md
-    - Getting Started:
-      - Before You Play: game/before_you_play.md
-      - Starting the Game: game/starting.md
     - Game Stages:
-      - The Hangar: game/hangar.md
-      - Space Exploration: game/exploration.ms
+      - The Hangar: 
+        - Hangar Overview: game/hangar_overview.md
+        - Selecting Ships: game/selecting_ships.md
+        - Launch: game/launch.md
+      - Space Exploration:
+        - Exploration Overview: game/exploration_overview.ms
+        - Ship Controls: game/exploration_controls.md
+        - Cargo Fuel: game/cargo_fuel.md
+        - Exploration Events: game/exploration_events.md
       - Combat: game/combat_index.md
       - Racing: game/racing.md
     - In-Game Help: game/help.md
