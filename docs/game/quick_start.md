@@ -76,12 +76,12 @@ Special abilities - Each ship type has 2 special abilities that can be used in C
 
 Note: The tanks shield wall currently does not have a display element or icon showing where it will be placed. Simply click the tile you wish to place the wall and it will appear.
 
-- **W-A-S-D - Pan camera
-- **Q / E - Rotate camera left/right
-- **Space - Focus to current turn unit
-- **Tab - Display scoreboard
-- **1-7 - Quick action keys
-- **F12 - End turn
+- **W-A-S-D** - Pan camera
+- **Q / E** - Rotate camera left/right
+- **Space** - Focus to current turn unit
+- **Tab** - Display scoreboard
+- **1-7** - Quick action keys
+- **F12** - End turn
 
 ### Combat Victory Screen
 
