@@ -18,6 +18,7 @@ nav:
   - Home: index.md
   - Whitepaper: whitepaper/whitepaper_index.md
   - DEEPSPACE Game:
+    - Quick Start Guide: game/quick_start.md
     - Getting Started:
       - Stages and Gameplay: game/stages.md
       - Movement: game/movement.md
