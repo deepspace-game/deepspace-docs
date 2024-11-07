@@ -9,6 +9,14 @@ To contribute effectively, you should have a basic understanding of GitHub and b
 3. **Branch Naming and PR Comments**: Use descriptive names for branches and PR comments to clearly indicate the purpose of your changes.
 4. **Request Reviews on Discord**: This repository is not actively monitored, so please notify the team in Discord to ensure your PR is reviewed and merged promptly.
 
+### Updating using the GitHub Wiki
+
+1. Open the file you want to edit.
+2. Make your edits
+3. Click the `Commit changes`... button.
+4. When prompted, choose to create a new branch (bottom option) and click Purpose Changes.  Do *NOT* Commit directly to the main branch.
+   - When submitting, use a good descriptive branch name, commit comment and description.
+
 **Note**: Changes will be automatically built and deployed to the CDN once your PR is approved and merged.
 
 ## Using MKDocs
